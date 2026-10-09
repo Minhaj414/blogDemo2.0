@@ -1,0 +1,6 @@
+{
+  "name": "Blogify",
+  "description": "A high-performance modern publishing platform for writers, developers, and creators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
